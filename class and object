@@ -1,0 +1,11 @@
+class Simple
+  def hi
+    puts "hello"
+  end
+end
+obj = Simple.new
+obj.hi
+                                                                                                                                           
+                                                                                                                                             
+                                                                                                                                             
+                                                                                                                                            
